@@ -1,0 +1,4 @@
+DAMAdapter:
+  subscriber: subscriber
+  consumerProviderType: consumer
+  WSDLUrl: wsdl
