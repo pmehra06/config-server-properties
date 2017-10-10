@@ -1,4 +1,4 @@
 DAMAdapter:
-  subscriber: s6
+  subscriber: s7
   consumerProviderType: c7
   WSDLUrl: http://10.105.76.12:8080/com.fico.om.dam.web/DAMService?wsdl
